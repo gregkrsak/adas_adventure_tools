@@ -1,0 +1,3 @@
+[submodule "pixel-paint"]
+	path = pixel-paint
+	url = git@github.com:gregkrsak/pixel-paint.git
